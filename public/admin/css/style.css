@@ -1,0 +1,24 @@
+.zeropadding{
+    padding: 0% !important;
+}
+div.dataTables_wrapper div.dataTables_filter label {
+    margin-top: 0 !important;
+}
+.note-editor.note-frame.panel.panel-default button {
+    color: #7e8299 !important;
+}
+.note-editable {
+    border-top: 1px solid #7e8299  !important;
+}
+.note-toolbar {
+    position: relative;
+    z-index: 500;
+    padding-bottom: 5px;
+}
+.table td, .table th {
+    border-bottom: 1px solid #E3EBF3;
+    padding: .75rem 1rem;
+}
+.btn-group .btn{
+    padding: 11px 10px !important;
+}
